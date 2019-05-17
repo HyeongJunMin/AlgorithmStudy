@@ -1,11 +1,9 @@
-import java.util.*;
 
-public class Solution {
+public class Solution_Backup1 {
 	public int[] solution(int []arr) {
-        
+        int[] answer = new int[111];
         int[] arrNew = arr;
         int arrLen = arrNew.length;
-        int[] answer = new int[arrNew.length];
         int i = 0;
         int cnt = 1;
         
