@@ -8,7 +8,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
 
-public class Solution {
+public class SolutionBackup2 {
 	public String[] solution(String[] strings, int n) {
 		
 		int size = strings.length;

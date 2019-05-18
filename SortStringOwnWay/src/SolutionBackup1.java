@@ -9,7 +9,6 @@ import java.util.Map;
 
 public class SolutionBackup1 {
 	public String[] solution(String[] strings, int n) {
-		
 		int size = strings.length;
 		String[] answer = new String[size];
 		String[][] save = new String[size][2];
